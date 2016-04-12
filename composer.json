@@ -1,0 +1,10 @@
+{
+    "name": "joister/angularapp",
+    "authors": [
+        {
+            "name": "Ravinesh",
+            "email": "ravinesh.kumar@joister.net"
+        }
+    ],
+    "require": {}
+}
